@@ -20,8 +20,8 @@ header_info
 echo -e "Loading..."
 APP="Homarr"
 var_disk="8"
-var_cpu="2"
-var_ram="2048"
+var_cpu="1"
+var_ram="512"
 var_os="debian"
 var_version="12"
 variables
@@ -47,7 +47,7 @@ function default_settings() {
   NS=""
   MAC=""
   VLAN=""
-  SSH="no"
+  SSH="yes"
   VERB="no"
   echo_default
 }
