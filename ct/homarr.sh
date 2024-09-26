@@ -23,7 +23,7 @@ var_disk="4"
 var_cpu="1"
 var_ram="512"
 var_os="ubuntu"
-var_version="20.04.6"
+var_version="20.04"
 variables
 color
 catch_errors
